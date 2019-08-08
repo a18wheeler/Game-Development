@@ -1,0 +1,3 @@
+C:/Users/andrew/Documents/Github/Game Dev/BullCow(Old)/cmake-build-debug/CMakeFiles/BullCow_Old_.dir
+C:/Users/andrew/Documents/Github/Game Dev/BullCow(Old)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andrew/Documents/Github/Game Dev/BullCow(Old)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
